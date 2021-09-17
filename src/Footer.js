@@ -6,7 +6,7 @@ class Footer extends Component{
 
         return(
             <footer className="footer">
-                <span className="text-muted"><b> All Rights Reserved 2021 <a href="https://github.com/vishnukotesh/College-Management-System---Full-Stack-Application" 
+                <span className="text-muted"><b> All Rights Reserved 2021 <a href="https://github.com/Bhavna25/Quollab_Assignment" 
                 title="Go to my GitHub profile of this project" target="_blank">@Bhavna_Soni</a></b></span>
 
 
